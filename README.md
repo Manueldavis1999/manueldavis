@@ -18,7 +18,13 @@ solutions to clients ranging from small and medium-sized business to fortune 500
 
 # **BACKGROUND OF THE ENTERPRISE**
 
-![infrastructure png](https://user-images.githubusercontent.com/116644395/204353434-45df362b-0ee6-45aa-90fa-da86c6e81b1b.png)
+•	Established in 1990
+•	Revenue : US$ 200 M plus
+•	4000 plus Professionals
+•	SEI CMMI Level 5
+•	ISO 9001:2015 and ISO 27001:2005
+
+
 
 
 
