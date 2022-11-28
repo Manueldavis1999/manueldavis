@@ -35,7 +35,7 @@ solutions to clients ranging from small and medium-sized business to fortune 500
 
 
 
-## CURRENT IT SETUP
+# CURRENT IT SETUP
 
 
 Currently system is deployed in on premise infrastructure.
@@ -49,3 +49,7 @@ residency considerations, choice of cloud services becomes all the more importan
 
 
 ## Cloud Storage vs. On-Premises Storage 
+
+Choosing to store your data on external servers or in-house servers is a major decision 
+that companies must consider. As you look at the pros and cons of on-premises and cloud storage,
+ you should be knowledgeable about their most important qualities.
