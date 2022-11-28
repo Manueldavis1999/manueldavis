@@ -18,7 +18,7 @@ solutions to clients ranging from small and medium-sized business to fortune 500
 
 ### **Background Of The Enterprise**
 
-
+![infrastructure png](https://user-images.githubusercontent.com/116644395/204353434-45df362b-0ee6-45aa-90fa-da86c6e81b1b.png)
 
 
 
