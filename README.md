@@ -13,7 +13,7 @@ solutions to clients ranging from small and medium-sized business to fortune 500
 
 
 ### **Background Of The Enterprise**
-<img src="C:\Users\91944\Downloads\infrastructure.png">
+<img src="https://www.pngegg.com/en/search?q=introduction">
 
 
 
