@@ -53,3 +53,6 @@ residency considerations, choice of cloud services becomes all the more importan
 Choosing to store your data on external servers or in-house servers is a major decision 
 that companies must consider. As you look at the pros and cons of on-premises and cloud storage,
  you should be knowledgeable about their most important qualities.
+
+
+## Advantages of On-Premises Storage
