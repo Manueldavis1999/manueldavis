@@ -41,4 +41,7 @@ solutions to clients ranging from small and medium-sized business to fortune 500
 Currently system is deployed in on premise infrastructure.
 
 
+# Proposed Deployment Architecture in cloud
+
+
 
