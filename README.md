@@ -35,12 +35,10 @@ solutions to clients ranging from small and medium-sized business to fortune 500
 
 
 
-
-
 ## CURRENT IT SETUP
 
 
-
+Currently system is deployed in on premise infrastructure.
 
 
 
