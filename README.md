@@ -41,7 +41,11 @@ solutions to clients ranging from small and medium-sized business to fortune 500
 Currently system is deployed in on premise infrastructure.
 
 
-# Proposed Deployment Architecture in cloud
+## Proposed Deployment Architecture in cloud
+
+Deployment architecture of a cloud-ready application is invariably influenced by services provided by 
+the cloud vendor. Being an application that requires operation under stringent compliance and data 
+residency considerations, choice of cloud services becomes all the more important.
 
 
-
+## Cloud Storage vs. On-Premises Storage 
