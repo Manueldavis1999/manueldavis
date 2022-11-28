@@ -1,5 +1,7 @@
 # manueldavis
 
+# CA1 Assignment
+
 # COMPANY CHOOSEN : NeST DIGITAL
 
 ## INTRODUCTION
@@ -13,8 +15,8 @@ solutions to clients ranging from small and medium-sized business to fortune 500
 
 
 ### **Background Of The Enterprise**
-<img src="https://www.pngegg.com/en/search?q=introduction">
 
+![alt text](https://nesttech.com/wp-content/uploads/2018/06/Nest-Modernized-Logo.png)
 
 
 
@@ -25,5 +27,5 @@ solutions to clients ranging from small and medium-sized business to fortune 500
 
 
 
-  
+
 
