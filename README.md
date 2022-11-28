@@ -56,3 +56,7 @@ that companies must consider. As you look at the pros and cons of on-premises an
 
 
 ## Advantages of On-Premises Storage
+
+• Operate without Internet: One of the major upsides to on-premises storage is that it does not require users to have
+an internet connection to access data. 
+
