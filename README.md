@@ -19,6 +19,7 @@ solutions to clients ranging from small and medium-sized business to fortune 500
 # **BACKGROUND OF THE ENTERPRISE**
 
 •	Established in 1990
+
 •	Revenue : US$ 200 M plus
 •	4000 plus Professionals
 •	SEI CMMI Level 5
