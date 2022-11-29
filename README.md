@@ -65,3 +65,10 @@ anytime, no matter your internet connection.
 • Lower monthly internet costs: If your business doesn't rely on the internet or cloud based services, you may no need to pay
 for such a high speed connection. For those with on-premises storage, the need for a strong connection with fast download
 speeds is reduced even further.
+
+• Provide greater Security: Unlike cloud storage, which is more vnlnerable to third parties and prying eyes, on-premises
+is completely restricted from anyone other than authorized person. These are not accessible to those outside the network,as 
+they are not storing the data online.
+
+• Offer control over server hardware: Instead of having to ask a cloud storage company to upgrade their storage plan
+or add new features , the company can simply do the upgrades themselves.
