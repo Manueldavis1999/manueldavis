@@ -38,7 +38,7 @@ solutions to clients ranging from small and medium-sized business to fortune 500
 # CURRENT IT SETUP
 
 
-Currently system is deployed in on premise infrastructure.
+Currently system is deployed in on-premise infrastructure.
 
 
 ## Proposed Deployment Architecture in cloud
@@ -58,5 +58,10 @@ that companies must consider. As you look at the pros and cons of on-premises an
 ## Advantages of On-Premises Storage
 
 • Operate without Internet: One of the major upsides to on-premises storage is that it does not require users to have
-an internet connection to access data. 
+an internet connection to access data. On-premises servers will provide you with an internal network that is accessible 
+anytime, no matter your internet connection.
 
+
+• Lower monthly internet costs: If your business doesn't rely on the internet or cloud based services, you may no need to pay
+for such a high speed connection. For those with on-premises storage, the need for a strong connection with fast download
+speeds is reduced even further.
