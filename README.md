@@ -93,3 +93,10 @@ compromised system held for ransom can cause you to lose your data permanently.
 ## Introducing a CLOUD TECHNOLOGY to the Enterprise (NeST Digital)
 
 # Amazon Web Services (AWS)
+
+## What is AWS?
+
+***The most complete and widely used cloud platform in the world, Amazon Web Services (AWS), provides over 200 fully functional services from data centers across the world.
+Compared to other cloud providers, AWS offers a significantly greater number of services and features within those services, ranging from infrastructure technologies like compute,
+ storage, and databases to cutting-edge technologies like artificial intelligence, machine learning, data lakes, and the Internet of Things. As a result, moving your current applications 
+to the cloud is quicker, simpler, and more cost-effective, and you can construct almost anything you can think of.***
