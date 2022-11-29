@@ -75,3 +75,21 @@ or add new features , the company can simply do the upgrades themselves.
 
 
 ## Why on- premises storage may not be the best option?
+
+Despite the many advantages that come with on-premises storage, there are some drawbacks companies should be aware of. 
+On-premises storage may not be the best choice for your business because it can
+
+• Require extra IT support: If you decide you want to use on-premises storage, you’ll also need to have IT staff 
+to maintain and manage your servers.
+
+
+• Increase maintenence cost: Along with the initial capital investment required to purcahse servers and other hardware,and also need to continue 
+to buy hardware,software and lisences to upgrade the system or repair it.
+
+
+•Increase the risk of data loss: With on-premises storage, a malfunction in the system or a 
+compromised system held for ransom can cause you to lose your data permanently.
+ 
+
+• Require a greater capital investment: When you first set up on-premises storage, you’ll have to invest a significant
+ amount of capital to purchase the servers and other pieces of hardware to get it running. 
