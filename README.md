@@ -72,3 +72,6 @@ they are not storing the data online.
 
 • Offer control over server hardware: Instead of having to ask a cloud storage company to upgrade their storage plan
 or add new features , the company can simply do the upgrades themselves.
+
+
+## WHY ON-PREMISES STORAGE MAY NOT BE THE BEST OPTION?
