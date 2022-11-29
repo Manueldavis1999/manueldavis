@@ -29,7 +29,7 @@ solutions to clients ranging from small and medium-sized business to fortune 500
 •	ISO 9001:2015 and ISO 27001:2005
 
 
-![NeST infrastructure](https://user-images.githubusercontent.com/116644395/204354926-a3e7a409-a77b-4f05-9bd4-3f826273f11a.png)
+![resize-16697385181034717061NeSTinfrastructure](https://user-images.githubusercontent.com/116644395/204583395-a8a961a4-d552-454f-b061-500aeb09d973.png)
 
 
 
