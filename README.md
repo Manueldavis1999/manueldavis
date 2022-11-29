@@ -87,3 +87,6 @@ compromised system held for ransom can cause you to lose your data permanently.
 
 • Require a greater capital investment: When you first set up on-premises storage, you’ll have to invest a significant
  amount of capital to purchase the servers and other pieces of hardware to get it running. 
+
+
+## Introducing a CLOUD TECHNOLOGY to the Enterprise (NeST Digital)
