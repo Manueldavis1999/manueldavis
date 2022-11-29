@@ -73,7 +73,7 @@ or add new features , the company can simply do the upgrades themselves.
 Despite the many advantages that come with on-premises storage, there are some drawbacks companies should be aware of. 
 On-premises storage may not be the best choice for your business because it can
 
-• *Require extra IT support:* If you decide you want to use on-premises storage, you’ll also need to have IT staff 
+• ***Require extra IT support:*** If you decide you want to use on-premises storage, you’ll also need to have IT staff 
 to maintain and manage your servers.
 
 
