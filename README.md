@@ -74,4 +74,4 @@ they are not storing the data online.
 or add new features , the company can simply do the upgrades themselves.
 
 
-## WHY ON-PREMISES STORAGE MAY NOT BE THE BEST OPTION?
+## Why on- premises storage may not be the best option?
