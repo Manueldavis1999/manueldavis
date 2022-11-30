@@ -42,12 +42,6 @@ Currently system is deployed in on-premise infrastructure.
 
 
 
-## Cloud Storage vs. On-Premises Storage 
-
-Choosing to store your data on external servers or in-house servers is a major decision 
-that companies must consider. As you look at the pros and cons of on-premises and cloud storage,
- you should be knowledgeable about their most important qualities.
-
 
 ## Advantages of On-Premises Storage
 
@@ -64,8 +58,6 @@ speeds is reduced even further.
 is completely restricted from anyone other than authorized person. These are not accessible to those outside the network,as 
 they are not storing the data online.
 
-• ***Offer control over server hardware:*** Instead of having to ask a cloud storage company to upgrade their storage plan
-or add new features , the company can simply do the upgrades themselves.
 
 
 ## Why on- premises storage may not be the best option?
