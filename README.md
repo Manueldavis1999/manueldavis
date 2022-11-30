@@ -160,5 +160,15 @@ Cloud computing makes data backup, disaster recovery, and business continuity ea
 redundant sites on the cloud provider's network.
 
 References :  Cloud Computing: Concepts, Technology & Architecture (Author :Ricardo Puttini)
+             
+
               NeST Digital website : https://www.nestdigital.com/
-              About AWS : 
+              
+
+	      About AWS : https://aws.amazon.com/
+
+	      
+	      About NeST Digital Current IT Setup: John Thomas ( Team Leader NeST Digital)
+
+
+	     
