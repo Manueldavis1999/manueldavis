@@ -101,8 +101,7 @@ can choose the right tool for the job to get the best cost and performance.
 • ***Infrastructure as a Service (IaaS):*** IaaS contains the basic building blocks for cloud IT. It typically provides access to networking features, computers (virtual or on dedicated hardware), 
 and data storage space. IaaS gives you the highest level of flexibility and management control over your IT resources.
 
-• ***Platform as a Service (PaaS):*** PaaS removes the need for you to manage underlying infrastructure (usually hardware and operating systems), and allows you to focus on the 
-deployment and management of your applications. This helps you be more efficient as you don’t need to worry about resource procurement, capacity planning, software maintenance, patching, 
+• ***Platform as a Service (PaaS):*** PaaS  helps you be more efficient as you don’t need to worry about resource procurement, capacity planning, software maintenance, patching, 
 or any of the other undifferentiated heavy lifting involved in running your application. 
 
 • ***Software as a Service (SaaS):*** SaaS provides you with a complete product that is run and managed by the service provider. In most cases, people referring to SaaS are referring to end-user 
@@ -159,16 +158,18 @@ freeing up staff and reducing costs
 Cloud computing makes data backup, disaster recovery, and business continuity easier and less expensive because data can be mirrored at multiple 
 redundant sites on the cloud provider's network.
 
-References :  Cloud Computing: Concepts, Technology & Architecture (Author :Ricardo Puttini)
+## References   
+
+Cloud Computing: Concepts, Technology & Architecture (Author :Ricardo Puttini)
              
 
-              NeST Digital website : https://www.nestdigital.com/
+ NeST Digital website : https://www.nestdigital.com/
               
 
-	      About AWS : https://aws.amazon.com/
+ About AWS : https://aws.amazon.com/
 
 	      
-	      About NeST Digital Current IT Setup: John Thomas ( Team Leader NeST Digital)
+About NeST Digital Current IT Setup: John Thomas ( Team Leader NeST Digital)
 
 
 	     
