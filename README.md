@@ -69,15 +69,15 @@ On-premises storage may not be the best choice for your business because it can
 to maintain and manage your servers.
 
 
-• ***Increase maintenence cost:*** Along with the initial capital investment required to purcahse servers and other hardware,and also need to continue 
-to buy hardware,software and lisences to upgrade the system or repair it.
+• ***Increase maintenance cost:*** Along with the initial capital investment required to purchase servers and other hardware, and also need to continue 
+to buy hardware, software and lisence to upgrade the system or repair it.
 
 
 • ***Increase the risk of data loss:*** With on-premises storage, a malfunction in the system or a 
 compromised system held for ransom can cause you to lose your data permanently.
  
 
-• ***Require a greater capital investment:*** When you first set up on-premises storage, you’ll have to invest a significant
+• ***Require a greater capital investment:*** When you first set up on-premises storage, you will have to invest a significant
  amount of capital to purchase the servers and other pieces of hardware to get it running. 
 
 
@@ -130,8 +130,8 @@ were the only options available to you, but now, cloud-based servers are a viabl
 • ***Reduce IT staff’s responsibilities:*** As your cloud storage will be managed by another company, your IT staff won’t have to take the time to install 
 new software patches or updates, freeing up their time for other tasks.
 
-• ***Elimiinate capital expenses:*** While on-premises storage is considered a capital expense, cloud is considered as an operational expense. Typically 
-on-premises storage requires a large initial investment to purchse equipment and install it in the office.
+• ***Eliminate capital expenses:*** While on-premises storage is considered a capital expense, cloud is considered as an operational expense. Typically 
+on-premises storage requires a large initial investment to purchase equipment and install it in the office.
 
 • ***Perform regular data backups:*** Cloud-based servers give users peace of mind 
 because they know if their computer goes haywire or their local files are deleted, they can find the information again. This ability to access information 
