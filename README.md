@@ -149,7 +149,7 @@ that would otherwise be lost means your company can minimize the risk of losing 
 • ***Affordability:*** Generally, costs are lower for cloud-based applications. Instead of having to pay a large licensing fee upfront, 
 you’ll have much lower monthly costs. Often times, these monthly costs take the form of subscription fees.
 
-• ***Ease of deployment:*** One of the biggest advantages of cloud computing is its ability 
+• ***Ease of deployment:*** One of the biggest advantages of AWS cloud is its ability 
 to be deployed quickly without long installation processes.
 
 • ***Management services:*** One major aspect of cloud computing is the management services that vendors will typically offer clients. 
