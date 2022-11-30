@@ -104,6 +104,21 @@ to the cloud is quicker, simpler, and more cost-effective, and you can construct
 AWS also has the deepest functionality within those services. For example, AWS offers the widest variety of databases that are purpose-built for different types of applications so you 
 can choose the right tool for the job to get the best cost and performance.
 
+## Services offered by Cloud computing
+
+• ***Infrastructure as a Service (IaaS):*** IaaS contains the basic building blocks for cloud IT. It typically provides access to networking features, computers (virtual or on dedicated hardware), 
+and data storage space. IaaS gives you the highest level of flexibility and management control over your IT resources.
+
+• ***Platform as a Service (PaaS):*** PaaS removes the need for you to manage underlying infrastructure (usually hardware and operating systems), and allows you to focus on the 
+deployment and management of your applications. This helps you be more efficient as you don’t need to worry about resource procurement, capacity planning, software maintenance, patching, 
+or any of the other undifferentiated heavy lifting involved in running your application. 
+
+• ***Software as a Service (SaaS):*** SaaS provides you with a complete product that is run and managed by the service provider. In most cases, people referring to SaaS are referring to end-user 
+applications (such as web-based email). With a SaaS offering, you don’t have to think about how the service is maintained or how the underlying infrastructure is managed. You only need to think 
+about how you will use that particular software. 
+
+
+
 ![aws](https://user-images.githubusercontent.com/116644395/204624834-9d6d2393-72a1-40df-a0af-cfa737490e34.jpg)
 
 ## Proposed deployment of architecture in cloud
@@ -132,3 +147,23 @@ on-premises storage requires a large initial investment to purchse equipment and
 because they know if their computer goes haywire or their local files are deleted, they can find the information again. This ability to access information 
 that would otherwise be lost means your company can minimize the risk of losing critical information.
 
+
+# CONCLUSION
+
+
+
+***Why Cloud ?***
+
+• ***Affordability:*** Generally, costs are lower for cloud-based applications. Instead of having to pay a large licensing fee upfront, 
+you’ll have much lower monthly costs. Often times, these monthly costs take the form of subscription fees.
+
+• ***Ease of deployment:*** One of the biggest advantages of cloud computing is its ability 
+to be deployed quickly without long installation processes.
+
+• ***Management services:*** One major aspect of cloud computing is the management services that vendors will typically offer clients. 
+Instead of having to host the software or purchase hardware themselves, a customer can work with a vendor who will take care of it all externally, 
+freeing up staff and reducing costs 
+
+
+Cloud computing makes data backup, disaster recovery, and business continuity easier and less expensive because data can be mirrored at multiple 
+redundant sites on the cloud provider's network.
