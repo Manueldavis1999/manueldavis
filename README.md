@@ -96,7 +96,7 @@ to the cloud is quicker, simpler, and more cost-effective, and you can construct
 AWS also has the deepest functionality within those services. For example, AWS offers the widest variety of databases that are purpose-built for different types of applications so you 
 can choose the right tool for the job to get the best cost and performance.
 
-## Services offered by Cloud computing
+## Services offered by AWS Cloud 
 
 • ***Infrastructure as a Service (IaaS):*** IaaS contains the basic building blocks for cloud IT. It typically provides access to networking features, computers (virtual or on dedicated hardware), 
 and data storage space. IaaS gives you the highest level of flexibility and management control over your IT resources.
@@ -119,7 +119,7 @@ Deployment architecture of a cloud-ready application is invariably influenced by
 Being an application that requires operation under stringent complaince and data residency considerations, choice of cloud services 
 become more important.
 
-## Why cloud storage be the bset option?
+## Why AWS is the bset option?
 
 One of the primary ways the cloud interacts with your company is in the way it stores data. Unlike an on-premises servers with storage, 
 cloud storage uses external servers managed by another company.
@@ -144,7 +144,7 @@ that would otherwise be lost means your company can minimize the risk of losing 
 
 
 
-***Why Cloud ?***
+***Why AWS ?***
 
 • ***Affordability:*** Generally, costs are lower for cloud-based applications. Instead of having to pay a large licensing fee upfront, 
 you’ll have much lower monthly costs. Often times, these monthly costs take the form of subscription fees.
