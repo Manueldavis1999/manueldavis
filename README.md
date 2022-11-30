@@ -106,8 +106,7 @@ deployment and management of your applications. This helps you be more efficient
 or any of the other undifferentiated heavy lifting involved in running your application. 
 
 • ***Software as a Service (SaaS):*** SaaS provides you with a complete product that is run and managed by the service provider. In most cases, people referring to SaaS are referring to end-user 
-applications (such as web-based email). With a SaaS offering, you don’t have to think about how the service is maintained or how the underlying infrastructure is managed. You only need to think 
-about how you will use that particular software. 
+applications (such as web-based email). 
 
 
 
@@ -135,7 +134,7 @@ new software patches or updates, freeing up their time for other tasks.
 • ***Elimiinate capital expenses:*** While on-premises storage is considered a capital expense, cloud is considered as an operational expense. Typically 
 on-premises storage requires a large initial investment to purchse equipment and install it in the office.
 
-• ***Perform regular data backups:*** The cloud offers easier data backup than on-premises server ever could.Cloud-based servers give users peace of mind 
+• ***Perform regular data backups:*** Cloud-based servers give users peace of mind 
 because they know if their computer goes haywire or their local files are deleted, they can find the information again. This ability to access information 
 that would otherwise be lost means your company can minimize the risk of losing critical information.
 
@@ -159,3 +158,7 @@ freeing up staff and reducing costs
 
 Cloud computing makes data backup, disaster recovery, and business continuity easier and less expensive because data can be mirrored at multiple 
 redundant sites on the cloud provider's network.
+
+References :  Cloud Computing: Concepts, Technology & Architecture (Author :Ricardo Puttini)
+              NeST Digital website : https://www.nestdigital.com/
+              About AWS : 
