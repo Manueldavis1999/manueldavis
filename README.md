@@ -105,3 +105,30 @@ AWS also has the deepest functionality within those services. For example, AWS o
 can choose the right tool for the job to get the best cost and performance.
 
 ![aws](https://user-images.githubusercontent.com/116644395/204624834-9d6d2393-72a1-40df-a0af-cfa737490e34.jpg)
+
+## Proposed deployment of architecture in cloud
+
+Deployment architecture of a cloud-ready application is invariably influenced by services provided by the cloud vendor.
+Being an application that requires operation under stringent complaince and data residency considerations, choice of cloud services 
+become more important.
+
+## Why cloud storage be the bset option?
+
+One of the primary ways the cloud interacts with your company is in the way it stores data. Unlike an on-premises servers with storage, 
+cloud storage uses external servers managed by another company.
+
+A primary function of any business is the ability to store data in servers. After all, servers are the lifeblood of your organization.
+ They store your information, connect your employees and allow you to connect with others around the world. In the past, on-site servers 
+were the only options available to you, but now, cloud-based servers are a viable option as well.
+
+
+• ***Reduce IT staff’s responsibilities:*** As your cloud storage will be managed by another company, your IT staff won’t have to take the time to install 
+new software patches or updates, freeing up their time for other tasks.
+
+• ***Elimiinate capital expenses:*** While on-premises storage is considered a capital expense, cloud is considered as an operational expense. Typically 
+on-premises storage requires a large initial investment to purchse equipment and install it in the office.
+
+• ***Perform regular data backups:*** The cloud offers easier data backup than on-premises server ever could.Cloud-based servers give users peace of mind 
+because they know if their computer goes haywire or their local files are deleted, they can find the information again. This ability to access information 
+that would otherwise be lost means your company can minimize the risk of losing critical information.
+
