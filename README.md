@@ -117,7 +117,7 @@ Deployment architecture of a cloud-ready application is invariably influenced by
 Being an application that requires operation under stringent complaince and data residency considerations, choice of cloud services 
 become more important.
 
-## Why AWS is the bset option?
+## Why AWS is the best option?
 
 One of the primary ways the cloud interacts with your company is in the way it stores data. Unlike an on-premises servers with storage, 
 cloud storage uses external servers managed by another company.
